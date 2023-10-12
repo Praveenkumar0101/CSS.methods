@@ -1,0 +1,42 @@
+/* Geeks.css */
+h1 { 
+	color: rgb(237, 242, 238); 
+	margin-bottom: 10px; 
+} 
+
+h1 { 
+    border: 4px solid rgb(12, 97, 120);
+    text-align: center;
+	font-size: 18px; 
+	line-height: 1.6; 
+	margin-bottom: 30px; 
+} 
+
+.rock { 
+	display: flex; 
+	flex-direction: column; 
+	align-items: center; 
+	padding: 20px; 
+	border: 2px solid black; 
+	border-radius: 10px; 
+	background-color: skyblue; 
+	margin-bottom: 10px; 
+	width: 20%; 
+
+} 
+
+.rock h2 { 
+    text-align: center;
+	color: green; 
+	font-size: 24px; 
+	margin-bottom: 10px; 
+} 
+
+.rock p { 
+	text-align: center; 
+	font-size: 16px; 
+	color: black; 
+}
+body {
+    background-color: rgb(155, 82, 224);
+}
